@@ -1,0 +1,19 @@
+{
+  "name": "shams-zia-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio - Shams Zia, Data Engineer",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "vite": "^5.4.0"
+  }
+}
