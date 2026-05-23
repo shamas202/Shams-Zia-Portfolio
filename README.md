@@ -91,4 +91,4 @@ All content lives in `src/App.jsx`:
 
 ---
 
-Built with ⚡ by Shams Zia
+Built with ⚡ by Shams Zia.
