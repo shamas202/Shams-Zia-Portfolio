@@ -87,7 +87,7 @@ All content lives in `src/App.jsx`:
 - **Skills** → edit the `skills` array in the `Skills` component
 - **Projects** → edit the `projects` array in the `Projects` component
 - **Contact info** → edit the info blocks in the `Contact` component
-- **Colors** → change `#00ff88` (green), `#ff0080` (pink), `#00d4ff` (cyan) globally
+- **Colors** → change `#00ff88` (green), `#ff0080` (pink), `#00d4ff` (cyan) globally.
 
 ---
 
