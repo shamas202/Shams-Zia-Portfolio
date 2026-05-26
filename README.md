@@ -1,6 +1,6 @@
 # Shams Zia — Personal Portfolio
 
-> Data Engineer | Big Data | Spark | Hadoop | ETL Pipeline
+> Data Engineer | Big Data | Spark | Hadoop | ETL Pipelines
 
 A full-stack personal portfolio with neon gaming aesthetic, built with **React + Vite** (frontend) and **Node.js + Express** (backend).
 
